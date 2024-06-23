@@ -1,4 +1,5 @@
-# This is my zomato landing page 
+# This is my zomato landing page clone
 
-## Done with frist commit .
-Edited with git 
+## Done with first commit.
+
+## Set Up created here for our appln
